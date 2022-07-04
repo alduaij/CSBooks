@@ -6,7 +6,6 @@ This is a collection of popular, highly recommended, highly influential academic
 ### Algorithms
 - Algorithms - Sedgewick
 - Introduction to Algorithms - Stein
-- Introduction to Algorithms - Solutions
 
 
 ### Artificial Intelligence and Machine Learning
@@ -115,7 +114,7 @@ This is a collection of popular, highly recommended, highly influential academic
 - Linux Kernel Development - Robert Love
 - Linux Pocket Guide - Barrett
 - Linux System Programming - Robert Love
-- Professional Linux Kernel - Mauerer
+- Professional Linux Kernel Architecture - Mauerer
 - Understanding Linux Network Internals - Benvenuti
 - Understanding the Linux Kernel - Cesati
 
